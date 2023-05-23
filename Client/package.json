@@ -1,0 +1,30 @@
+{
+  "name": "news_scrapper",
+  "version": "0.1.0",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
+    "core-js": "^3.8.3",
+    "jquery": "^3.6.4",
+    "popper.js": "^1.16.1",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vue-sessionstorage": "^1.0.0",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-unit-jest": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
