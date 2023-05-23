@@ -12,7 +12,6 @@ cd Server
 ```
 ##### server setup
 ``` npm install ```
-
 ##### server run:
 ``` npm start ```
 
@@ -20,7 +19,6 @@ cd Server
 ```
 cd Client
 ```
-
 ##### client set up:
 ``` npm install ```
 ##### client run:
